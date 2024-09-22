@@ -17,3 +17,12 @@ This version control method is a more modern approach to handling large projects
 - New commits are either hotfixing bugs or introducing new major updates 
 - **Goal** - allows having a stable version of a project
 
+***
+
+### Develop branch
+
+- **Main contribution of this branching strategy**
+- This branch serves as **an integration place for features**
+- Feature branches are merged into this branch creating a preliminary version of an updated project
+- **Goal** - serves a role of accumulating feautures and preparing projects before release
+
