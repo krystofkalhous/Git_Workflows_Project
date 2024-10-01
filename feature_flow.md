@@ -1,8 +1,10 @@
-### Feature Branch Workflow in Git
+## Feature Branch Workflow in Git
 
 The core idea of the feature branch workflow is to avoid making direct updates to the main branch while creating features on independent branches.
 This allow multiple developers to work on a feature without disrupting the main branch.
 Due to this, the main branch will never contain broken code.
+
+***
 
 ### The process for the developer
 - Start in the latest main commit. (All feature branches must be created of the latest state of the project)
